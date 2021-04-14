@@ -20,6 +20,7 @@ int main() {
    startingLetter = 'z';
 
    /* Your solution goes here  */
+   BackwardsAlphabet(startingLetter);
 
    return 0;
 }
